@@ -27,3 +27,6 @@ pick and place_display---- pick and place with display
 platecounter---- agrileaf platecounter initial test code
 
 platecounterv2----- agrileaf platecounter final including lcd, button, relay..
+
+
+dma_adc , ADC_DMA_1---- same code for including value using DMA
